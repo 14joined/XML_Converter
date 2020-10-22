@@ -3,7 +3,7 @@
 
 This is an assigment from Project 1, 20201, HUST
 
-###Implementation
+## Implementation
 
   1. Start in 'main.cpp', we read the file, convert the xml file to a string and discard the prologue if needed. If there is no available file, the program output 
   "File was not opened.\n Nothing to convert."
@@ -17,13 +17,13 @@ This is an assigment from Project 1, 20201, HUST
   4. To change between two task, comment line 7 '#define outputObjects;' in 'main.cpp'. Test file are in corpus, and switch between file by changing filename in 
   line 14 (main.cpp). 
 
-###References
+## References
 
   1. Theory: XMl, JetBrains Academy.
   
   2. JSON-XML Converter, GitHub [cucaiduon, DS & AI K65, HUST], https://github.com/cucaiduon/JSON-XMLconverter
   
-###Contact
+## Contact
 
   1. Facebook [Jimmy Raynor]: https://www.facebook.com/jimmity.raynor.5/
   
