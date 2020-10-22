@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>The Three-Body Problem</title>
+        <author>Liu Cixin</author>
+    </book>
+    <book>
+        <title>Modern Operating Systems</title>
+        <author>Andrew S. Tanenbaum</author>
+    </book>
+</library>
