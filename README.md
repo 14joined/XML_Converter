@@ -25,7 +25,7 @@ This is an assigment from Project 1, 20201, HUST
   
 ## Contact
 
-  1. Facebook [Jimmy Raynor]: https://www.facebook.com/jimmity.raynor.5/
+  1. Facebook: https://www.facebook.com/jimmity.raynor.5/
   
-  2. Outlook [Khang, IT1 K63, HUST]: khang.vt183561@sis.hust.edu.vn
+  2. Email: khang.vt183561@sis.hust.edu.vn
  
