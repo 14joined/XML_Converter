@@ -14,7 +14,7 @@ This is an assigment from Project 1, 20201, HUST
   3. Create 'xmlConverter' class, which will return the root pointer of the xml root element. We also have two functions, 'outputXml' and 'reverseConverter' in 
   this class, the first one handle the task output objects with its path, the latter output the origin xml file given the root pointer.
   
-  4. To change between two task, comment line 7 '#define outputObjects;' in 'main.cpp'. Test file are in corpus, and switch between file by changing filename in 
+  4. To change between two task, comment line 7 '#define outputObjects;' in 'main.cpp'. Test files are in corpus, and switch between file by changing filename in 
   line 14 (main.cpp). 
 
 ## References
