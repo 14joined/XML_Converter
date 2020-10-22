@@ -4,7 +4,7 @@
 
 // Comment this line below to get xml file from objects,
 // it will output objects with their path by default
-//#define outputObjects
+#define outputObjects
 
 using namespace std;
 
