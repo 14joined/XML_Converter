@@ -19,9 +19,7 @@ This is an assigment from Project 1, 20201, HUST
 
 ## References
 
-  1. Theory: XMl, JetBrains Academy.
-  
-  2. JSON-XML Converter, GitHub [cucaiduon, DS & AI K65, HUST], https://github.com/cucaiduon/JSON-XMLconverter
+  Theory: XMl, JetBrains Academy.
   
 ## Contact
 
